@@ -1,1 +1,1 @@
-`npm run dev`
+*type in the Terminal* `npm run dev`
